@@ -5,6 +5,8 @@
 
 ![效果](https://github.com/Masterain98/GenshinImpactWishHistoryUtility/blob/main/example/screenshot.png?raw=true) 
 
+Bilibili演示视频：[AV713675798](https://www.bilibili.com/video/bv14X4y1K7zu)
+
 ## 为什么有这个小工具
 
 1. 非洲人需要算保底，需要比较完整且查询方便的抽卡历史记录 (main reason)
