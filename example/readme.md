@@ -1,0 +1,6 @@
+-  从原神抽卡历史记录页面复制网页表格内容到指定txt文档
+    -  新手祈愿历史记录复制到Novice.txt
+    -  常驻祈愿历史记录复制到Permanent.txt
+    -  活动角色祈愿历史记录复制到CharacterEvent.txt
+    -  活动武器历史记录复制到WeaponEvent.txt
+-  保持一行一条信息（类型/名称/时间）
