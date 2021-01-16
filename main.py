@@ -81,6 +81,9 @@ def excelReformat(wishType):
 
 
 if __name__ == "__main__":
+    print("原神祈愿历史记录导出工具  Genshin Impact Wish History Export Utility")
+    print("https://github.com/Masterain98/GenshinImpactWishHistoryUtility")
+    print(" ")
     print("请按序号输入需要导出的数据：")
     print("1. 新手祈愿")
     print("2. 常驻祈愿")
@@ -114,3 +117,4 @@ if __name__ == "__main__":
         excelReformat("CharacterEvent")
     if "4" in userInput:
         excelReformat("WeaponEvent")
+    input("导出完成！按任意键退出...")
